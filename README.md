@@ -1,1 +1,2 @@
-# rubymotionweekly
+# RubyMotion Weekly
+## Tales from the Dragon
