@@ -24,16 +24,16 @@
 <header class="page-header" role="banner">
     <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
     <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-    {% if site.github.is_project_page %}
-    <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
+    {% if page.id %}
+    <a href="/" class="btn">Home</a>
     {% endif %}
-    {% if site.show_downloads %}
-    <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
-    <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
-    {% endif %}
+    <a href="https://www.getdrip.com/forms/482172082/submissions/new" class="btn">Sign Up</a>
 </header>
 
 <main id="content" class="main-content" role="main">
+
+    <p><a href="https://www.getdrip.com/forms/482172082/submissions/new">Sign Up</a> to get RubyMotion Weekly sent direct to your inbox every week.</p>
+
     {{ content }}
 
     <footer class="site-footer">

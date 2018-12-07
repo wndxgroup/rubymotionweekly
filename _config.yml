@@ -8,8 +8,8 @@ locale:       "en"
 
 # About/contact
 author:
-  name:       Lori Olson
-  url:        https://wndx.school
+  name: Lori Olson
+  url: https://wndx.school
 
 # Plugins
 plugins:
