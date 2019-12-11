@@ -3,7 +3,7 @@ title:        RubyMotion Weekly
 description:  Tales from the Dragon
 baseurl:      ""
 url: "https://rubymotionweekly.com"
-paginate:     1
+paginate:     10
 locale:       "en"
 
 # About/contact
