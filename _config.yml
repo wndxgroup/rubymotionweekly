@@ -1,10 +1,11 @@
 # Setup
-title:        RubyMotion Weekly
+title:        DragonRuby Dispatch
 description:  Tales from the Dragon
 baseurl:      ""
-url: "https://rubymotionweekly.com"
+url: "https://dragonrubydispatch.com"
 paginate:     10
 locale:       "en"
+google_analytics: UA-37342921-5
 
 # About/contact
 author:
