@@ -7,6 +7,19 @@
   background-image: url("/assets/images/crumpled-paper-1000x562.png");
   color: black;
   
+  @include large {
+    height: 200px;
+  }
+
+  @include medium {
+    height: 175px;
+  }
+
+  @include small {
+    height: 150px;
+  }
+
+  
 }
 
 .project-name, .project-tagline {
