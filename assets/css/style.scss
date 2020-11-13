@@ -8,15 +8,15 @@
   color: black;
   
   @include large {
-    height: 200px;
+    height: 225px;
   }
 
   @include medium {
-    height: 175px;
+    height: 200px;
   }
 
   @include small {
-    height: 150px;
+    height: 175px;
   }
 
   
