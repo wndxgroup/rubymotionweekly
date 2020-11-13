@@ -15,6 +15,7 @@ author:
 # Plugins
 plugins:
   - jekyll-paginate
+  - jekyll-seo-tag
 
 #Others
 markdown: kramdown
