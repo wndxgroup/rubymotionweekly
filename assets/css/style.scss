@@ -3,12 +3,12 @@
 @import "{{ site.theme }}";
 
 .page-header {
-  /*
-  background-image: url("/assets/images/crumpled-paper-1000x562.png");
+  
+  background-image: url("/assets/images/drd-cover-with-mask-600x337px.png");
   color: black;
   
   @include large {
-    height: 300px;
+    height: 337px;
   }
 
   @include medium {
@@ -18,7 +18,7 @@
   @include small {
     height: 260px;
   }
-  */
+  
 }
 
 p {
