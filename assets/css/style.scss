@@ -3,7 +3,7 @@
 @import "{{ site.theme }}";
 
 .page-header {
-
+  /*
   background-image: url("/assets/images/crumpled-paper-1000x562.png");
   color: black;
   
@@ -18,8 +18,7 @@
   @include small {
     height: 260px;
   }
-
-  
+  */
 }
 
 p {
@@ -35,10 +34,10 @@ p {
 }
 
 .dragonruby-dispatch {
-  
+  /*  
   position: absolute;
   width: 40%;
   top: 30px;
   right: 40px;
-  
+  */
 }
