@@ -4,8 +4,15 @@
 
 .page-header {
   
+  position: absolute;
+  top: 0px;
+  left; 0px;
   background-image: url("/assets/images/drd-cover-with-mask-600x337px.png");
   background-repeat: no-repeat;
+  width: 600px;
+  height: 337px;
+  background-color: white;
+  
   /*
   @include large {
     height: 337px;
