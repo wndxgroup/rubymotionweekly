@@ -2,14 +2,20 @@
 ---
 @import "{{ site.theme }}";
 
+.main-content {
+  
+  width: 600px;
+  
+}
+
 .page-header {
   
   top: 0px;
   left: 0px;
-  background-image: url("/assets/images/drd-cover-with-mask-600x337px.png");
+  background-image: url("/assets/images/drd-cover-with-mask-700x393px.png");
   background-repeat: no-repeat;
-  width: 650px;
-  height: 365px;
+  width: 700px;
+  height: 393px;
   background-color: white;
   
   /*
